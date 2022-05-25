@@ -1,5 +1,5 @@
 # ufo-landing
-A mock webpage layout, part of The Odin Project.
+A mock webpage layout, part of The Odin Project. This is a work-in-progress, and while the basic layout and design is where I'd like it, I plan to tinker more with the content itself. I will add to the project as my knowledge increases.
 
 ## Design/Theme
 
