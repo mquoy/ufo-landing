@@ -7,4 +7,8 @@ I plan to design this page using UFOs and aliens as the theme. This is meant to 
 
 ## Image Credits
 
-Need to lookup and add these!
+[ufo](https://unsplash.com/photos/HWQXIYbs8PM)
+[alien1](https://pixabay.com/vectors/alien-greeting-hello-long-life-1292972/)
+[alien2](https://pixabay.com/vectors/alien-daily-drawing-green-head-1296189/)
+[alien3](https://pixabay.com/illustrations/alien-et-extraterrestrial-space-1534979/)
+[alien4](https://pixabay.com/vectors/alien-astronaut-space-fantasy-man-4883391/)
